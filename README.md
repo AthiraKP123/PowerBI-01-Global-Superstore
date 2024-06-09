@@ -1,1 +1,1 @@
-# PowerBI-01-Global-Superstore Sales Analysis
+# Global-Superstore Sales Analysis
