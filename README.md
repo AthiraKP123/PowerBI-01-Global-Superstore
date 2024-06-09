@@ -1,5 +1,6 @@
 # Global-Superstore Sales Analysis
 
+Here's a summary of what you have done,
 This is a POwer BI dashboard that visualizes the sales data of the Global Super store dataset.
 This dashboard provides insights  on the sales performance of the company across different regions and product categories.
 ## Features:
